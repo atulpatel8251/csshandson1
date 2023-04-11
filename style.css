@@ -1,7 +1,9 @@
-h1{
+h1
+{
 color: red;
 }
-h2{
+h2
+    {
     color: red;
     font-style: italic;
     }
@@ -10,13 +12,16 @@ h2{
         line-height: 50px;
         font-size: 20px;
         }
-        .a{
+        .a
+        {
             text-decoration: line-through;
         }
-        .b{
+        .b
+        {
             background-color: yellow;
         }
-        .c{
+        .c
+        {
             text-decoration: underline;
         }
         
@@ -26,13 +31,16 @@ h2{
             color: brown;
             letter-spacing: 3px;
         }
-        .d{
+        .d
+        {
             background-color: yellow;
         }
-        p{
+        p
+        {
             color: brown;
         }
-        a{
+        a
+        {
             color: brown;
             background-color: yellow;
         }
